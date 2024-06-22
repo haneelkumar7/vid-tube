@@ -31,10 +31,10 @@ VidTube is designed to offer a seamless experience for both content creators and
 ## Screenshots
 
 ### Homepage
-![Homepage]("../../../images/image_1.webp)
+![Homepage](/images/image_1.webp)
 
 ### Video Player Interface
-![Video Player](../images/image_2.webp)
+![Video Player](/images/image_2.webp)
 
 ## Installation
 
